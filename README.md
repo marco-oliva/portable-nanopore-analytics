@@ -26,6 +26,4 @@ Once installed fastq-dump and adb, you can reproduce the tests on an Android (aa
 
 ## Citing 
 
-Marco Oliva, Franco Milicchio, Kaden King, Grace Benson, Christina Boucher and Mattia Prosperi: "Portable Nanopore Analytics: Are We There Yet?"
-Bioinformatics
-DOI:
+Marco Oliva, Franco Milicchio, Kaden King, Grace Benson, Christina Boucher and Mattia Prosperi: "Portable Nanopore Analytics: Are We There Yet?", Bioinformatics, DOI: https://doi.org/10.1093/bioinformatics/btaa237
